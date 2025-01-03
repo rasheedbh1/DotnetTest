@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3diRTgRcDg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Work\\source\\repos\\IISTest\\IISTest\\IISTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}

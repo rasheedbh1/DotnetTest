@@ -1,0 +1,7 @@
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\IISTest.exe
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.Development.json
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\appsettings.json
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\IISTest.dll
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\IISTest.deps.json
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\IISTest.runtimeconfig.json
+C:\Users\Work\source\repos\IISTest\IISTest\obj\Release\net8.0\win-x64\PubTmp\Out\IISTest.pdb
